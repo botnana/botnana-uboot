@@ -1,0 +1,6 @@
+bootpart=0:2
+uname_r=3.14.26-gc2c01f9
+fdtfile=am335x-botbone.dtb
+bootfile=zImage
+console=ttyO1,115200n8
+
