@@ -39,9 +39,5 @@ Booting from eMMC
 
 # Install uEnv.txt:
 
-Get it from ***botnana-os-tools*** on bitbucket website
-
-Install it,
-
     sudo cp -v uEnv.txt /media/boot/
 
