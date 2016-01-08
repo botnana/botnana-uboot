@@ -20,7 +20,7 @@ This is a pre-built (32bit) version of Linaro GCC that runs on generic linux, so
 
 # Configure and Build:
 
-Booring from MicroSD card
+Booting from MicroSD card
 
     make ARCH=arm CROSS_COMPILE=${CC} distclean
     make ARCH=arm CROSS_COMPILE=${CC} am335x_evm_config
